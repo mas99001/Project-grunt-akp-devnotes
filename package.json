@@ -1,0 +1,13 @@
+{
+  "name": "my-akp-devnotes",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-akp-devnotes": "^0.1.1",
+    "grunt-template": "^0.2.3"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
