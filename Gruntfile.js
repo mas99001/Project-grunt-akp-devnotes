@@ -6,7 +6,8 @@ module.exports = function (grunt) {
           options: {
             dest: 'destination/paterns-par',
             excludeComponents: ['devNotes', 'message', 'position', 'transition', 'utilities'],
-            partialsTemplate:'app/devnotes-template.html'
+            partialsTemplate:'app/devnotes-template.html',
+            one2one: false            
           },
           files: {
             'dest/default_options': ['src/srcfile', 'src/123'],

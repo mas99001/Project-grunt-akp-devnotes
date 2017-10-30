@@ -4,7 +4,7 @@
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.2",
-    "grunt-akp-devnotes": "^1.0.0",
+    "grunt-akp-devnotes": "^1.1.1",
     "grunt-template": "^0.2.3"
   },
   "engines": {
